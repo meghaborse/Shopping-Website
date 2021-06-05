@@ -1,0 +1,5 @@
+net\kzn\shoppingbackend\test\CategoryTestCase.class
+net\kzn\shoppingbackend\AppTest.class
+net\kzn\shoppingbackend\test\CartLineTestCase.class
+net\kzn\shoppingbackend\test\UserTestCase.class
+net\kzn\shoppingbackend\test\ProductTestCase.class
